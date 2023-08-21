@@ -1,6 +1,6 @@
 
-- 🌱 I’m currently learning React Js and Typescript
-- ⚡Front-End Developer
+- 🌱 I’m currently learning C# .Net
+- 
 
 <div align="center">
   <a href="https://github.com/mrodrigues05">
